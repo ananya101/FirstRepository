@@ -3,4 +3,4 @@ second line test 5 file
 third line in test 5
 
 stash check
-stash check 2
+stash check 2 from new branch
